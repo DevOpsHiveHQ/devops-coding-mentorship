@@ -2,7 +2,7 @@
 
 This repo is a personal initiative to help DevOps Engineers to write more code. If you want to participate
 as a mentor or mentee, read the project [requirements](#requirements), then view the
-[central task board](https://github.com/aabouzaid/devops-coding-mentorship/projects?query=is%3Aopen).
+[central task board](https://github.com/orgs/DevOpsHiveNet/projects/1/views/1).
 
 ## Why?
 
@@ -42,7 +42,7 @@ How to participate in this initiative? You could be a mentor or mentee or even b
   (it's recommended to be related to the DevOps toolkit).
 - You know a bug or missing feature in that tool/project, and you have a general idea of how to fix it
   (**it's better to discuss the feature/fix with the upstream project before working on it**).
-- Create [an issue in this repo](https://github.com/aabouzaid/devops-coding-mentorship/issues)
+- Create [an issue in this repo](https://github.com/DevOpsHiveNet/devops-coding-mentorship/issues)
   with all details about the task, the language, the difficulty, etc.
 - One of the mentees who is interested in the topic/language will show an interest in that task.
 - Finally, you and the mentee will pair together (meet, call, text, as you like) to work on that task.
@@ -50,11 +50,11 @@ How to participate in this initiative? You could be a mentor or mentee or even b
 ### Mentee
 
 - Find an interesting task for you (based on the topic, language, or difficulty) in the
-  [central task board](https://github.com/aabouzaid/devops-coding-mentorship/projects?query=is%3Aopen).
+  [central task board](https://github.com/orgs/DevOpsHiveNet/projects/1/views/1).
 - The mentors will support and guide you in that task, depending on the programming language,
   syntax, and tools used.
   
-[Here is an excellent example as a start](https://github.com/aabouzaid/devops-coding-mentorship/issues/2).
+[Here is an excellent example as a start](https://github.com/DevOpsHiveNet/devops-coding-mentorship/issues/2).
 
 
 ## Notes
